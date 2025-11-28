@@ -3,6 +3,7 @@
 El objetivo principal de este repositorio es almacenar los proyectos que vaya desarrollando para mi ciclo de DAM, pero dandoles mi toque personal y mejorandolos.
 
 ## Índice de proyectos
+[Proyectos del módulo de programación](./ProyectosDAM/Programacion)
 
 
 ## Autor 👨‍🎓
