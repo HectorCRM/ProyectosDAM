@@ -4,7 +4,9 @@ El objetivo principal de este repositorio es alojar los proyectos que vaya desar
 Dentro de cada carpeta de cada módulo hay a su vez 2 carpetas: una para el código original para resolver la tarea o proyecto, y otra en la que ire añadiendo mejoras y modificaciones a ese código original.
 
 ## Índice de proyectos ⚙️
-[Proyectos del módulo de programación](./Proyectos/Programacion)
+- [Proyectos del módulo de programación](./Proyectos/Programacion)  
+  - [Calculadora de áreas](https://github.com/HectorCRM/ProyectosDAM/tree/main/Proyectos/Programacion/CalculadoraAreas)
+  - [TragaBolas](https://github.com/HectorCRM/ProyectosDAM/tree/main/Proyectos/Programacion/TragaBolas)
 
 
 ## Autor 👨‍🎓
