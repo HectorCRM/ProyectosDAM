@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.prog03.figuras;
+package figuras;
 
 /**
  * Clase Rectangulo para calcular el área de un rectangulo y comprobar con la medida de la base y la altura si se trata o no de un cuadrado
@@ -37,6 +37,9 @@ public class Rectangulo {
     public float getArea(float base, float altura) {
         return this.base * this.altura;
     } 
+    public float getPerimetro(float base, float altura) {
+        return (this.base *2) + (this.altura *2);
+    }
     
     public String rectToString(float base, float altura){
         return "El rectangulo tiene una base de "+ this.base + " y una altura de " + this.altura;
