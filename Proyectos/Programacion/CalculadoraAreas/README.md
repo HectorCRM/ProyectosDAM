@@ -13,7 +13,7 @@ Despues para ejecutarlo:
 java Principal
 ``
 
-![imagen](https://github.com/HectorCRM/ProyectosDAM/blob/main/Proyectos/Programacion/CalculadoraAreas/original/imagenes/Snapshot_2025-12-01_17-05-40.png)
+![imagen](https://github.com/HectorCRM/ProyectosDAM/blob/mejorasProyectos/Proyectos/Programacion/CalculadoraAreas/images/Calculo%20perimetro.png)
 ## Mejoras futuras
 - Calcular tambien el perimetro
 - Incluir mas figuras aparte de rectangulos/cuadrados
